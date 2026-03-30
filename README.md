@@ -26,8 +26,10 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=cpp,linux,git,aws,docker,python,js,react,mysql" />
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,linux,git,aws,docker,python,js,react,mysql&perline=6" />
 </p>
 
 ---
